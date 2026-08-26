@@ -3,9 +3,6 @@
 A machine learning app that predicts laptop prices from specs (brand, RAM, 
 storage, screen, CPU, GPU) using a Random Forest Regressor. 
   
-## Live App 
-[Link goes here once deployed] 
-  
 ## Dataset 
 [Laptop Price dataset on Kaggle](https://www.kaggle.com/datasets/muhammetvarl/laptop-price) 
   
